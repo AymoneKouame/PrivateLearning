@@ -1,2 +1,2 @@
 # PrivateLearning
-My private repository for self-learning
+This repo will host my personal data science/ML projects 
